@@ -1,0 +1,900 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/simulation/modelsim
+Ealu
+Z1 w1707230092
+Z2 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z3 DPx4 ieee 16 std_logic_signed 0 22 C<aanc0R`<LWPSe[JYRP^3
+Z4 DPx4 work 10 components 0 22 PZ89cd1Ef]cj97cWJi8O:0
+Z5 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z6 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 12
+R0
+Z7 8C:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/ALU.vhd
+Z8 FC:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/ALU.vhd
+l0
+L5 1
+V4Jlca:DTSI2hl`jQ8E0S>0
+!s100 [K1PZi^Z0UjA@DR]?f=:33
+Z9 OV;C;2020.1;71
+31
+Z10 !s110 1713881472
+!i10b 1
+Z11 !s108 1713881472.000000
+Z12 !s90 -reportprogress|300|-93|-work|work|C:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/ALU.vhd|
+Z13 !s107 C:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/ALU.vhd|
+!i113 1
+Z14 o-93 -work work
+Z15 tExplicit 1 CvgOpt 0
+Abehaviour
+R2
+R3
+R4
+R5
+R6
+DEx4 work 3 alu 0 22 4Jlca:DTSI2hl`jQ8E0S>0
+!i122 12
+l17
+L13 17
+VNa05cdi?b;<U4METVKHIO1
+!s100 cao62L]@8R=>QSaI=A1AG2
+R9
+31
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Pcomponents
+R2
+R3
+R5
+R6
+!i122 5
+w1713878723
+R0
+8C:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/components.vhd
+FC:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/components.vhd
+l0
+L5 1
+VPZ89cd1Ef]cj97cWJi8O:0
+!s100 UYDBX^VY`Sm<<0ihjI>[g0
+R9
+31
+Z16 !s110 1713881471
+!i10b 1
+Z17 !s108 1713881471.000000
+!s90 -reportprogress|300|-93|-work|work|C:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/components.vhd|
+!s107 C:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/components.vhd|
+!i113 1
+R14
+R15
+Edatamemory
+Z18 w1710441599
+R2
+R3
+R4
+R5
+R6
+!i122 13
+R0
+Z19 8C:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/DataMemory.vhd
+Z20 FC:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/DataMemory.vhd
+l0
+L6 1
+V6>mNgT?h@`bSi:FmA_o@M2
+!s100 JTDg9NkaZQ;dnBIE4TUHz3
+R9
+31
+R10
+!i10b 1
+R11
+Z21 !s90 -reportprogress|300|-93|-work|work|C:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/DataMemory.vhd|
+Z22 !s107 C:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/DataMemory.vhd|
+!i113 1
+R14
+R15
+Astruc_behaviour
+R2
+R3
+R4
+R5
+R6
+DEx4 work 10 datamemory 0 22 6>mNgT?h@`bSi:FmA_o@M2
+!i122 13
+l41
+Z23 L12 151
+V:_Se>@mSBj6B74[hf<G?a2
+!s100 M=MMkS<CJQOM;NPkiD4o;2
+R9
+31
+R10
+!i10b 1
+R11
+R21
+R22
+!i113 1
+R14
+R15
+Edec2to4
+Z24 w1705506037
+R5
+R6
+!i122 4
+R0
+Z25 8C:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/dec2to4.vhd
+Z26 FC:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/dec2to4.vhd
+l0
+L6 1
+V7obXTbi9S>EeXNbj1:@Bf2
+!s100 NbZK8dGF6nXNm>[=`JC>_0
+R9
+31
+R16
+!i10b 1
+R17
+Z27 !s90 -reportprogress|300|-93|-work|work|C:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/dec2to4.vhd|
+Z28 !s107 C:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/dec2to4.vhd|
+!i113 1
+R14
+R15
+Alogicfunc
+R5
+R6
+DEx4 work 7 dec2to4 0 22 7obXTbi9S>EeXNbj1:@Bf2
+!i122 4
+l13
+L12 8
+VhN8DPKlKgnC?VE[1n^h@G0
+!s100 LmmfXEm2d@d@EW5E?AC=j3
+R9
+31
+R16
+!i10b 1
+R17
+R27
+R28
+!i113 1
+R14
+R15
+Edec4to16
+R24
+R2
+R3
+R4
+R5
+R6
+!i122 11
+R0
+Z29 8C:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/dec4to16.vhd
+Z30 FC:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/dec4to16.vhd
+l0
+L7 1
+V0YDY9ROXNa`nXSJLmbm1m0
+!s100 :9aj>2=0mEkm@@Obl_l_h0
+R9
+31
+R10
+!i10b 1
+R11
+Z31 !s90 -reportprogress|300|-93|-work|work|C:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/dec4to16.vhd|
+Z32 !s107 C:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/dec4to16.vhd|
+!i113 1
+R14
+R15
+Astruc_behaviour
+R2
+R3
+R4
+R5
+R6
+DEx4 work 8 dec4to16 0 22 0YDY9ROXNa`nXSJLmbm1m0
+!i122 11
+l15
+Z33 L13 9
+VCf3d<^6cTMM_i96j:I>J<3
+!s100 G?h^7U`X@@8o91bo@5CTI1
+R9
+31
+R10
+!i10b 1
+R11
+R31
+R32
+!i113 1
+R14
+R15
+Eforwarding_unit
+Z34 w1713878579
+R2
+R3
+R4
+R5
+R6
+!i122 19
+R0
+Z35 8C:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/output_files/Forwarding_Unit.vhd
+Z36 FC:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/output_files/Forwarding_Unit.vhd
+l0
+L5 1
+VRLj6eFNdW2G>?H1G11Q==0
+!s100 MAnUiV?3Ezi@LPgOK]CIc3
+R9
+31
+Z37 !s110 1713881473
+!i10b 1
+Z38 !s108 1713881473.000000
+Z39 !s90 -reportprogress|300|-93|-work|work|C:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/output_files/Forwarding_Unit.vhd|
+!s107 C:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/output_files/Forwarding_Unit.vhd|
+!i113 1
+R14
+R15
+Abehavior
+R2
+R3
+R4
+R5
+R6
+DEx4 work 15 forwarding_unit 0 22 RLj6eFNdW2G>?H1G11Q==0
+!i122 19
+l12
+L11 9
+VM>=8a[UD`8hk]5?>Rb>Qi0
+!s100 H7[SPnF32Zl3=8hUL[4Xf0
+R9
+31
+R37
+!i10b 1
+R38
+R39
+Z40 !s107 C:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/output_files/Forwarding_Unit.vhd|
+!i113 1
+R14
+R15
+Efulladd
+R24
+R5
+R6
+!i122 3
+R0
+Z41 8C:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/fulladd.vhd
+Z42 FC:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/fulladd.vhd
+l0
+L6 1
+VziY8cfTYCVz8^A`EWKZ2^1
+!s100 cXj=L=BeW98zYAJRLH9@j1
+R9
+31
+R16
+!i10b 1
+R17
+Z43 !s90 -reportprogress|300|-93|-work|work|C:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/fulladd.vhd|
+Z44 !s107 C:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/fulladd.vhd|
+!i113 1
+R14
+R15
+Alogicfunc
+R5
+R6
+DEx4 work 7 fulladd 0 22 ziY8cfTYCVz8^A`EWKZ2^1
+!i122 3
+l12
+L11 5
+V;4A99eQYCR7B]KEjGZg0E2
+!s100 3Td1GOE:Li?fBdDZM`>ez2
+R9
+31
+R16
+!i10b 1
+R17
+R43
+R44
+!i113 1
+R14
+R15
+Einstruction_decode
+Z45 w1712154533
+R2
+R3
+R4
+R5
+R6
+!i122 10
+R0
+Z46 8C:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/instruction_decode.vhd
+Z47 FC:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/instruction_decode.vhd
+l0
+L6 1
+VFgXf<=51cff?C97cIlkE51
+!s100 X^P8hT1[<8mPh3N^_afFA0
+R9
+31
+R10
+!i10b 1
+R11
+Z48 !s90 -reportprogress|300|-93|-work|work|C:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/instruction_decode.vhd|
+Z49 !s107 C:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/instruction_decode.vhd|
+!i113 1
+R14
+R15
+Astruc_behaviour
+R2
+R3
+R4
+R5
+R6
+DEx4 work 18 instruction_decode 0 22 FgXf<=51cff?C97cIlkE51
+!i122 10
+l18
+L13 57
+VXaPoJ7JK6?CfzPV1mFOKS2
+!s100 z`dWE<BIFCHzJRg0:amJ?3
+R9
+31
+R10
+!i10b 1
+R11
+R48
+R49
+!i113 1
+R14
+R15
+Einstruction_memory
+Z50 w1713881082
+R2
+R3
+R4
+Z51 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+R5
+R6
+!i122 9
+R0
+Z52 8C:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/instruction_memory.vhd
+Z53 FC:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/instruction_memory.vhd
+l0
+L8 1
+V<LM=NWoj7SeK`WOZ:ge102
+!s100 FUE5I95cMAaTeae4:ielR2
+R9
+31
+R10
+!i10b 1
+R11
+Z54 !s90 -reportprogress|300|-93|-work|work|C:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/instruction_memory.vhd|
+Z55 !s107 C:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/instruction_memory.vhd|
+!i113 1
+R14
+R15
+Astruc_behaviour
+R2
+R3
+R4
+R51
+R5
+R6
+DEx4 work 18 instruction_memory 0 22 <LM=NWoj7SeK`WOZ:ge102
+!i122 9
+l40
+L14 112
+VDTN9LW^:YQN27<X:EX43n3
+!s100 k:o3LM_>mI`e]44N0WToU3
+R9
+31
+R10
+!i10b 1
+R11
+R54
+R55
+!i113 1
+R14
+R15
+Emux2to1
+R24
+R5
+R6
+!i122 2
+R0
+Z56 8C:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/mux2to1.vhd
+Z57 FC:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/mux2to1.vhd
+l0
+L6 1
+V]F]hTDio`OR<=VY3ZSjfn2
+!s100 2Y]BJOJ>nfG@D@kF6<KcB0
+R9
+31
+R16
+!i10b 1
+R17
+Z58 !s90 -reportprogress|300|-93|-work|work|C:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/mux2to1.vhd|
+Z59 !s107 C:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/mux2to1.vhd|
+!i113 1
+R14
+R15
+Alogicfunc
+R5
+R6
+DEx4 work 7 mux2to1 0 22 ]F]hTDio`OR<=VY3ZSjfn2
+!i122 2
+l15
+L13 14
+Vm2f86Nge<14h;NWU_K>[>1
+!s100 ;W^SCehM[9I;kQINc0CEK0
+R9
+31
+R16
+!i10b 1
+R17
+R58
+R59
+!i113 1
+R14
+R15
+Emux4to1
+R24
+R2
+R3
+R4
+R5
+R6
+!i122 8
+R0
+Z60 8C:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/mux4to1.vhd
+Z61 FC:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/mux4to1.vhd
+l0
+L6 1
+V81WhnCONI:cWkiKH_1fkR1
+!s100 nT:OzDKVMaJZ1zaY`OLXK2
+R9
+31
+R10
+!i10b 1
+R11
+Z62 !s90 -reportprogress|300|-93|-work|work|C:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/mux4to1.vhd|
+Z63 !s107 C:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/mux4to1.vhd|
+!i113 1
+R14
+R15
+Astruc_behaviour
+R2
+R3
+R4
+R5
+R6
+DEx4 work 7 mux4to1 0 22 81WhnCONI:cWkiKH_1fkR1
+!i122 8
+l17
+R33
+VkD?H>aM:]4=h8BFlGTZP00
+!s100 <lJc1_mQ>`X>fQB]PmRX52
+R9
+31
+R10
+!i10b 1
+R11
+R62
+R63
+!i113 1
+R14
+R15
+Epipeline
+Z64 w1713881385
+R2
+R3
+R4
+R5
+R6
+!i122 14
+R0
+Z65 8C:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/pipeline.vhd
+Z66 FC:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/pipeline.vhd
+l0
+L5 1
+V7?HD13HmnB]MAAE[RLFoE3
+!s100 C9SlTC>P=:5We>;U4z4WO3
+R9
+31
+R10
+!i10b 1
+R11
+Z67 !s90 -reportprogress|300|-93|-work|work|C:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/pipeline.vhd|
+Z68 !s107 C:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/pipeline.vhd|
+!i113 1
+R14
+R15
+Abehaviour
+R2
+R3
+R4
+R5
+R6
+DEx4 work 8 pipeline 0 22 7?HD13HmnB]MAAE[RLFoE3
+!i122 14
+l24
+L10 121
+V93k`A;SVkl_gJi]C<aCR93
+!s100 FJ>l^o6jMJ:zcL>Rj<BES2
+R9
+31
+R10
+!i10b 1
+R11
+R67
+R68
+!i113 1
+R14
+R15
+Ereg1bit
+Z69 w1712068569
+R2
+R3
+R4
+R5
+R6
+!i122 15
+R0
+Z70 8C:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/Reg1bit.vhd
+Z71 FC:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/Reg1bit.vhd
+l0
+L5 1
+V`Kj7;6^21[Vn1E:;RimL>0
+!s100 M6Kbl`6fJE137<CPPmdS@2
+R9
+31
+R37
+!i10b 1
+R38
+Z72 !s90 -reportprogress|300|-93|-work|work|C:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/Reg1bit.vhd|
+Z73 !s107 C:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/Reg1bit.vhd|
+!i113 1
+R14
+R15
+Abehavior
+R2
+R3
+R4
+R5
+R6
+DEx4 work 7 reg1bit 0 22 `Kj7;6^21[Vn1E:;RimL>0
+!i122 15
+l11
+L10 11
+VEiWVLM@nTo8KV;aI1oXgG1
+!s100 [Q4D2;1I^b;6IhoKWIXK33
+R9
+31
+R37
+!i10b 1
+R38
+R72
+R73
+!i113 1
+R14
+R15
+Ereg2bit
+Z74 w1712068570
+R2
+R3
+R4
+R5
+R6
+!i122 16
+R0
+Z75 8C:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/Reg2bit.vhd
+Z76 FC:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/Reg2bit.vhd
+l0
+L5 1
+Vk<ceLIjcYD6bJU4b0ohC=3
+!s100 67ZWPCm:=VM@9>53BE1fb3
+R9
+31
+R37
+!i10b 1
+R38
+Z77 !s90 -reportprogress|300|-93|-work|work|C:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/Reg2bit.vhd|
+Z78 !s107 C:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/Reg2bit.vhd|
+!i113 1
+R14
+R15
+Abehavior
+R2
+R3
+R4
+R5
+R6
+DEx4 work 7 reg2bit 0 22 k<ceLIjcYD6bJU4b0ohC=3
+!i122 16
+l12
+Z79 L11 11
+VT<d6kfX3:Aj@[7jY`hh3f3
+!s100 PInGGM1nG>_z946YzlI6b1
+R9
+31
+R37
+!i10b 1
+R38
+R77
+R78
+!i113 1
+R14
+R15
+Ereg32bit
+Z80 w1712068566
+R2
+R3
+R4
+R5
+R6
+!i122 18
+R0
+Z81 8C:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/Reg32bit.vhd
+Z82 FC:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/Reg32bit.vhd
+l0
+L5 1
+V_?=MnMQgm4f:V5?^oGlh60
+!s100 iboA2dn4HBcC754hi<cSE3
+R9
+31
+R37
+!i10b 1
+R38
+Z83 !s90 -reportprogress|300|-93|-work|work|C:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/Reg32bit.vhd|
+Z84 !s107 C:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/Reg32bit.vhd|
+!i113 1
+R14
+R15
+Abehavior
+R2
+R3
+R4
+R5
+R6
+DEx4 work 8 reg32bit 0 22 _?=MnMQgm4f:V5?^oGlh60
+!i122 18
+l12
+R79
+V>?W2R4D@]znW^3^fElS:c1
+!s100 Jh@M_Ck?732=Il8oV1U;W2
+R9
+31
+R37
+!i10b 1
+R38
+R83
+R84
+!i113 1
+R14
+R15
+Ereg4bit
+R74
+R2
+R3
+R4
+R5
+R6
+!i122 17
+R0
+Z85 8C:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/Reg4bit.vhd
+Z86 FC:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/Reg4bit.vhd
+l0
+L5 1
+Vdk[CkhGGRi<:TXkI;HUe93
+!s100 R9Cg658IQF@k3zi[z@>2l3
+R9
+31
+R37
+!i10b 1
+R38
+Z87 !s90 -reportprogress|300|-93|-work|work|C:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/Reg4bit.vhd|
+Z88 !s107 C:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/Reg4bit.vhd|
+!i113 1
+R14
+R15
+Abehavior
+R2
+R3
+R4
+R5
+R6
+DEx4 work 7 reg4bit 0 22 dk[CkhGGRi<:TXkI;HUe93
+!i122 17
+l12
+R79
+VEN`ST;JSei8R^ARj1aP;b3
+!s100 YC<JeH3bVbd=Z:[F9]2[^0
+R9
+31
+R37
+!i10b 1
+R38
+R87
+R88
+!i113 1
+R14
+R15
+Eregister_file
+Z89 w1713880116
+R2
+R3
+R4
+R5
+R6
+!i122 7
+R0
+Z90 8C:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/register_file.vhd
+Z91 FC:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/register_file.vhd
+l0
+L6 1
+Ve7HQgG3ff8;CjnQSG<FQb1
+!s100 [Th0f3?l;UUR2KNP]lJ6a2
+R9
+31
+R10
+!i10b 1
+R17
+Z92 !s90 -reportprogress|300|-93|-work|work|C:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/register_file.vhd|
+Z93 !s107 C:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/register_file.vhd|
+!i113 1
+R14
+R15
+Astruc_behaviour
+R2
+R3
+R4
+R5
+R6
+DEx4 work 13 register_file 0 22 e7HQgG3ff8;CjnQSG<FQb1
+!i122 7
+l41
+R23
+VDfmRA@BOzLzE8]oCTUX;l1
+!s100 cbV5Mz717Z22cc;R8EecE3
+R9
+31
+R10
+!i10b 1
+R17
+R92
+R93
+!i113 1
+R14
+R15
+Eregn
+Z94 w1712068571
+R5
+R6
+!i122 1
+R0
+Z95 8C:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/regN.vhd
+Z96 FC:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/regN.vhd
+l0
+L5 1
+V<n2ab<HDD_k2>QBCPM]9>3
+!s100 9WISHEa<GU>hb:hkoFU>l1
+R9
+31
+R16
+!i10b 1
+R17
+Z97 !s90 -reportprogress|300|-93|-work|work|C:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/regN.vhd|
+Z98 !s107 C:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/regN.vhd|
+!i113 1
+R14
+R15
+Abehavior
+R5
+R6
+DEx4 work 4 regn 0 22 <n2ab<HDD_k2>QBCPM]9>3
+!i122 1
+l13
+L12 9
+V6fP>odf>[FfYhH6bzlTP=2
+!s100 H_Fd<a^^4ZRKjV6>Zi4<R0
+R9
+31
+R16
+!i10b 1
+R17
+R97
+R98
+!i113 1
+R14
+R15
+Eripple_carry
+Z99 w1710251565
+R2
+R3
+R4
+R5
+R6
+!i122 6
+R0
+Z100 8C:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/ripple_carry.vhd
+Z101 FC:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/ripple_carry.vhd
+l0
+L8 1
+Vc:T[_OcQda0N;EmHS<fze2
+!s100 NecK9P_@beN7`aT5X@S9T3
+R9
+31
+R16
+!i10b 1
+R17
+Z102 !s90 -reportprogress|300|-93|-work|work|C:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/ripple_carry.vhd|
+Z103 !s107 C:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/ripple_carry.vhd|
+!i113 1
+R14
+R15
+Astruc_behaviour
+R2
+R3
+R4
+R5
+R6
+DEx4 work 12 ripple_carry 0 22 c:T[_OcQda0N;EmHS<fze2
+!i122 6
+l19
+L15 17
+VT2K^8TfSkd]>CgJkGDz3@3
+!s100 Neeze;1>deNd7<cEANOV71
+R9
+31
+R16
+!i10b 1
+R17
+R102
+R103
+!i113 1
+R14
+R15
+Etrin
+Z104 w1705506038
+R5
+R6
+!i122 0
+R0
+Z105 8C:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/trin.vhd
+Z106 FC:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/trin.vhd
+l0
+L6 1
+V3^=UTL66lAo[Zc29Y`UBR1
+!s100 09[YhPg2Q7CoUYLlSBnMB2
+R9
+31
+R16
+!i10b 1
+R17
+Z107 !s90 -reportprogress|300|-93|-work|work|C:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/trin.vhd|
+Z108 !s107 C:/Users/yolky/OneDrive/Documents/Homework/Spring 2024/ECE 374/Lab 8/mips-add-vhdl/trin.vhd|
+!i113 1
+R14
+R15
+Abehavior
+R5
+R6
+DEx4 work 4 trin 0 22 3^=UTL66lAo[Zc29Y`UBR1
+!i122 0
+l14
+L13 4
+VUNPXCA:^CdmT0L>^RH;nj2
+!s100 KkF5k=d^9m5`cKFZjo2Pg0
+R9
+31
+R16
+!i10b 1
+R17
+R107
+R108
+!i113 1
+R14
+R15
