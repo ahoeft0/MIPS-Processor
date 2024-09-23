@@ -1,0 +1,8 @@
+library ieee;
+use ieee.std_logic_1164.all;
+use work.components.all;
+
+entity pipeline is
+	port( clock, reset : in std_logic;
+	current_pc, result : out std_logic_vector(3 downto 0));
+end pipeline;

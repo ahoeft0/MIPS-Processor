@@ -1,0 +1,15 @@
+library ieee;
+use ieee.std_logic_1164.all;
+use work.components.all;
+
+entity Reg1bit is
+	port( clk, reset, D : in std_logic;
+			Q: out std_logic_vector(3 downto 0));
+end Reg1bit;
+
+architecture behaviour of Reg1bit is
+if reset = 1 then
+	q <= 0
+elsif clk'even and clk = 1 then
+	q <= D
+end behavior
