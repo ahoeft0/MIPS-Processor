@@ -1,0 +1,49 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "current_pc[0]",
+					"strict" : false
+				},
+				{
+					"name" : "current_pc[1]",
+					"strict" : false
+				},
+				{
+					"name" : "current_pc[2]",
+					"strict" : false
+				},
+				{
+					"name" : "current_pc[3]",
+					"strict" : false
+				},
+				{
+					"name" : "result[0]",
+					"strict" : false
+				},
+				{
+					"name" : "result[1]",
+					"strict" : false
+				},
+				{
+					"name" : "result[2]",
+					"strict" : false
+				},
+				{
+					"name" : "result[3]",
+					"strict" : false
+				},
+				{
+					"name" : "reset",
+					"strict" : false
+				},
+				{
+					"name" : "clock",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
